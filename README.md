@@ -38,11 +38,11 @@ $$R_c = \lambda \left( \frac{k}{\Phi} \right)^{1/n}$$
 
 **Temporal**
 
-R_c(t) = λ(t) · ( k / (Φⁿ · t^q) )
+$$R_c(t) = \lambda(t) \left( \frac{k}{\Phi^n t^q} \right)$$
 
 **Estática**
 
-R_c = λ · ( k / Φⁿ ), com λ constante
+$$R_c = \lambda \left( \frac{k}{\Phi^n} \right) \quad \text{com } \lambda \text{ constante}$$
 
 **Energia**
 
