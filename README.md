@@ -65,7 +65,7 @@ $$
 Convergência para o raio gravitacional — com $\Phi = M c^2$, $Va = c$ e a identidade do regime de buracos negros:
 
 $$
-R = \sqrt{\frac{k}{\Phi \cdot Va}} \xrightarrow[k=c^7/(4G^2M)]{} R_s = \frac{2GM}{c^2}
+R = \sqrt{\dfrac{k}{\Phi \cdot Va}} \xrightarrow[k=c^7/(4G^2M)]{} R_s = \dfrac{2GM}{c^2}
 $$
 
 ---
