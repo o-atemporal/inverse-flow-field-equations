@@ -1,17 +1,3 @@
-Equações de Fluxo Inverso — O Atemporal
-Copyright (c) 2026 Antônio Marcos
-
-Este material é disponibilizado sob a licença
-Creative Commons Attribution 4.0 International (CC BY 4.0).
-
-Você tem o direito de compartilhar, adaptar e criar obras derivadas
-deste material, inclusive para fins comerciais, desde que seja mantida
-a atribuição obrigatória de autoria ao projeto oficial
-O Atemporal / Antônio Marcos.
-
-Texto completo da licença:
-[creativecommons.org](https://creativecommons.org/licenses/by/4.0/legalcode.pt)
-
 # Equações de Campo de Fluxo Inverso
 
 Registro das formulações derivadas do **Princípio da Proporcionalidade Inversa**,
