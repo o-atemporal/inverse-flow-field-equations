@@ -34,7 +34,7 @@ também alcançada pelo axioma fundamental quando Va = 1.
 
 **Dimensão**
 
-R_c = λ · ( k / Φ )^(1/n)
+$$R_c = \lambda \left( \frac{k}{\Phi} \right)^{1/n}$$
 
 **Temporal**
 
