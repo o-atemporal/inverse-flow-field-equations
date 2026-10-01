@@ -63,7 +63,8 @@ $$\chi = \sqrt{ 1 - \left( \frac{2}{F_{\chi}} - 1 \right)^2 }$$
 
 **23ª — Inclinação inversa**
 
-$$\theta = \arcsin \left\{ \frac{\sqrt{R} - \sqrt{\dfrac{R_s}{F_z F_{\chi}}}}{\sqrt{\dfrac{GM}{c^2}}} \right\}$$
+$$M = \frac{R c^2}{ \left\{ G \left[ \sqrt{ \frac{2}{F_z F_{\chi}} } + \sin \theta \right]^2 \right\} }$$
+
 
 
 **24ª — Massa inversa**
