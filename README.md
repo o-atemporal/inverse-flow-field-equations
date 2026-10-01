@@ -48,6 +48,37 @@ $$R_c = \lambda \left( \frac{k}{\Phi^n} \right) \quad \text{com } \lambda \text{
 
 $$R_c = \lambda \left( \frac{k}{\Phi + \varepsilon} \right)^{1/n}$$
 
+### Limites e Convergências
+
+Caminho pelo axioma fundamental — com $Va = 1$:
+
+$$
+Va = 1 \longrightarrow \Phi = \frac{k}{R} \longrightarrow R_c = \frac{k}{\Phi}
+$$
+
+Caminho pelo axioma de campo — com $\lambda = 1, \varepsilon \rightarrow 0, n = 1$:
+
+$$
+\lambda = 1, \varepsilon \rightarrow 0, n = 1 \longrightarrow R_c = \frac{k}{\Phi}
+$$
+
+Convergência para o raio gravitacional — com $\Phi = M c^2$, $Va = c$ e a identidade do regime de buracos negros:
+
+$$
+R = \sqrt{\frac{k}{\Phi \cdot Va}} \xrightarrow{k=c^7/(4G^2M)} R_s = \frac{2GM}{c^2}
+$$
+
+---
+
+### Escopos da Identidade $k$
+
+| Regime | Expressão |
+| :--- | :--- |
+| Buracos negros | $k = \dfrac{c^7}{4G^2M}$ |
+| Espaço-tempo (2ª Forma) | $k = \Phi \cdot Va \cdot R^2$ |
+| Forma geral | identidade do sistema em análise |
+
+
 ## Formas Inversas
 
 Fatores: F_z = 1 − 1/(1+z)², F_χ = 2 / (1 + √(1−χ²))
