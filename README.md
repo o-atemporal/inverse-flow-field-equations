@@ -55,19 +55,19 @@ Termo auxiliar: A = √R − √(GM/c²) · sen θ
 
 **21ª — Redshift inverso**
 
-z = [ 1 − R_s / (F_χ · A²) ]^(−1/2) − 1
+$$z = \left[ 1 - \frac{R_s}{F_{\chi} \cdot A^2} \right]^{-1/2} - 1$$
 
 **22ª — Spin inverso**
 
-χ = √( 1 − ( 2/F_χ − 1 )² )
+$$\chi = \sqrt{ 1 - \left( \frac{2}{F_{\chi}} - 1 \right)^2 }$$
 
 **23ª — Inclinação inversa**
 
-θ = arcsen{ [ √R − √( R_s / (F_z · F_χ) ) ] / √(GM/c²) }
+$$\theta = \arcsin \left\{ \frac{ \sqrt{R} - \sqrt{ \frac{R_s}{F_z \cdot F_{\chi}} } }{ \sqrt{\frac{GM}{c^2}} } \right\}$$
 
 **24ª — Massa inversa**
 
-M = R c² / { G [ √( 2 / (F_z · F_χ) ) + sen θ ]² }
+$$M = \frac{R c^2}{ \left\{ G \left[ \sqrt{ \frac{2}{F_z \cdot F_{\chi}} } + \sin \theta \right]^2 \right\} }$$
 
 | Forma | Isola | Depende de |
 |---|---|---|
