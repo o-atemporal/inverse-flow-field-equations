@@ -10,7 +10,7 @@ Ecossistema **O Atemporal** — Antônio Marcos. Licença CC BY 4.0.
 
 ## Axioma de Campo
 
-R_c = λ · ( k / (Φ + ε) )^(1/n)
+$$R_c = \lambda \left( \frac{k}{\Phi + \varepsilon} \right)^{1/n}$$
 
 | Termo | Papel |
 |---|---|
