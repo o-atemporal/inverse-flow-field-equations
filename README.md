@@ -70,7 +70,9 @@ $$
 
 **24ª — Massa inversa**
 
-$$M = \frac{R c^2}{ \left\{ G \left[ \sqrt{ \frac{2}{F_z \cdot F_{\chi}} } + \sin \theta \right]^2 \right\} }$$
+$$
+M = \frac{R c^2}{G \left[ \sqrt{\dfrac{2}{F_z F_{\chi}}} + \sin \theta \right]^2}
+$$
 
 | Forma | Isola | Depende de |
 |---|---|---|
