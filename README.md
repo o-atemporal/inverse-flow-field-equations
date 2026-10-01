@@ -46,7 +46,7 @@ $$R_c = \lambda \left( \frac{k}{\Phi^n} \right) \quad \text{com } \lambda \text{
 
 **Energia**
 
-R_c = λ · ( k / (Φ + ε) )^(1/n)
+$$R_c = \lambda \left( \frac{k}{\Phi + \varepsilon} \right)^{1/n}$$
 
 ## Formas Inversas
 
