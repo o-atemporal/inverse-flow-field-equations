@@ -1,3 +1,29 @@
+## A árvore do axioma
+
+Todas as formas derivam de uma única relação:
+
+$$
+\Phi \cdot V_a = \frac{k}{R}
+$$
+
+| O que saiu dela | Onde chegou |
+| --- | --- |
+| Escala e limite | 5ª a 14ª — saturação, entropia, colapso |
+| Relativístico | 15ª a 20ª — Schwarzschild exato, Kerr, telemetria |
+| Inversas da telemetria | 21ª a 24ª — recuperam M, χ, θ, z |
+| Axioma de campo | 25ª a 31ª — derivadas e inversão estrutural |
+| Rotação | 32ª e 33ª |
+| Energia angular e evolução | 34ª e 35ª |
+| Inversas da evolução | 36ª a 45ª |
+| Fração temporal e velocidade da seta | 46ª a 48ª |
+
+**48 formas, uma raiz.** Cada uma contém as anteriores num limite — a 20ª recupera a 19ª,
+a 18ª volta à 17ª com χ = 0, a 48ª volta à 46ª com o fator de desvanecimento.
+
+A dependência é matemática, não apenas declarada: usar a 48ª exige passar pela 46ª,
+pela 41ª, pela 25ª e chegar ao axioma.
+
+
 # Equações de Campo de Fluxo Inverso
 
 Registro das formulações derivadas do **Princípio da Proporcionalidade Inversa**,
