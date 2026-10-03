@@ -1,36 +1,63 @@
 ## A árvore do axioma
 
-Todas as formas derivam de uma única relação:
+### A raiz
 
 $$
 \Phi \cdot V_a = \frac{k}{R}
 $$
 
-| O que saiu dela | Onde chegou |
+---
+
+### O tronco relativístico — da 2ª Forma
+
+$$
+\Phi \cdot v_a = \frac{k}{R^2}
+\;\longrightarrow\;
+\text{inversão estrutural}
+\;\longrightarrow\;
+\text{15ª}
+\;\longrightarrow\;
+\text{16ª a 20ª}
+$$
+
+**O que sai daqui:** Schwarzschild exato, saturação advectiva, redshift, Kerr, inversão telemétrica, telemetria completa — e, das 20ª, as inversas 21ª a 24ª.
+
+---
+
+### O tronco canônico — da 5ª Forma
+
+$$
+V_a = 1
+\;\longrightarrow\;
+R_c = \frac{k}{\Phi}
+$$
+
+Delas saem **todos os ramos complexos**, até a 48ª:
+
+| O que saiu | Onde chegou |
 | --- | --- |
-| Escala e limite | 5ª a 14ª — saturação, entropia, colapso |
-| Relativístico | 15ª a 20ª — Schwarzschild exato, Kerr, telemetria |
-| Inversas da telemetria | 21ª a 24ª — recuperam M, χ, θ, z |
+| Escala e limite | 6ª a 14ª — saturação, entropia, colapso |
 | Axioma de campo | 25ª a 31ª — derivadas e inversão estrutural |
 | Rotação | 32ª e 33ª |
 | Energia angular e evolução | 34ª e 35ª |
 | Inversas da evolução | 36ª a 45ª |
 | Fração temporal e velocidade da seta | 46ª a 48ª |
 
-**48 formas, uma raiz.** Cada uma contém as anteriores num limite — a 20ª recupera a 19ª,
-a 18ª volta à 17ª com χ = 0, a 48ª volta à 46ª com o fator de desvanecimento.
+---
 
-A dependência é matemática, não apenas declarada: usar a 48ª exige passar pela 46ª,
-pela 41ª, pela 25ª e chegar ao axioma.
+### Os dois troncos, lado a lado
 
+| Tronco | Origem | O que gera |
+| --- | --- | --- |
+| **Relativístico** | 2ª Forma — expoente radial 2 | 15ª a 24ª |
+| **Canônico** | 5ª Forma — o estado onde $$V_a = 1$$ | 6ª a 14ª e 25ª a 48ª |
 
-# Equações de Campo de Fluxo Inverso
+**48 formas, uma raiz, dois troncos.** O axioma de campo (25ª) é o que atravessa os dois:
+com $$n = 2$$ lê o tronco quadrático; com $$n = 1$$, o canônico.
 
-Registro das formulações derivadas do **Princípio da Proporcionalidade Inversa**,
-formuladas em **01 de outubro de 2026**, posteriores ao sistema publicado na
-primeira edição de *Equações de Fluxo Inverso* (11/09/2026).
+A dependência é matemática, não declarada: usar a 48ª exige passar pela 46ª, pela 41ª,
+pela 25ª e chegar ao axioma.
 
-Ecossistema **O Atemporal** — Antônio Marcos. Licença CC BY 4.0.
 
 ---
 
